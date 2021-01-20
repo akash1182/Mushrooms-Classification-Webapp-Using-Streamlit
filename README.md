@@ -1,6 +1,6 @@
 # Binary-Classification-Webapp-Using-Streamlit
 In this Machine Learning project I have built a Web app using Streamlit library.
-In the Web App, the viewer can visualize performace of various Machine Learning Models on the Mushrooms Dataset. 
+In this Web App, the viewer can visualize performace of various Machine Learning Models on the Mushrooms Dataset. 
 
 How to run this Web App on your pc:
 1] Make Sure you have installed pyton 3.6 or greater
